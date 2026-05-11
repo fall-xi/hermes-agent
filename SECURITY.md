@@ -188,6 +188,7 @@ authorization model, but the rules below apply uniformly.
 - **The TUI gateway (`tui_gateway/`).** JSON-RPC backend for the
   Ink terminal UI, reached over local IPC.
 
+
 **Uniform rules:**
 
 1. **Authorization is required at every surface that crosses a
