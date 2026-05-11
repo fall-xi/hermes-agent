@@ -65,3 +65,6 @@ Fallback providers and credential pools are also supported. :contentReference[oa
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash
+
+USN:1MS24CS045
+
